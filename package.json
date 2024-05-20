@@ -1,0 +1,26 @@
+{
+  "name": "react-hook-form-v7-js-template",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "babel-plugin-react-compiler": "^0.0.0-experimental-592953e-20240517",
+    "react": "^19.0.0-rc-3f1436cca1-20240516",
+    "react-dom": "^19.0.0-rc-3f1436cca1-20240516",
+    "react-hook-form": "7.4.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
+    "vite": "^5.2.11"
+  },
+  "scripts": {
+    "start": "vite"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
